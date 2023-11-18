@@ -23,9 +23,9 @@ I'm currently working on strengthening my foundation in front-end development. I
 
 I love connecting with fellow developers and learning from each other. You can reach me through the following channels:
 
-- [![LinkedIn](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)](https://www.linkedin.com/in/sachin-m-6a6a98a2/)
+- [!<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" width="55" height="50">](https://www.linkedin.com/in/sachin-m-6a6a98a2/)
 - [![Discord](https://img.shields.io/badge/Discord-Sachin%234277-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/users/Sachin#4277)
-- [![Gmail](https://th.bing.com/th/id/OIP.VPVx8mYEC2KaNEJYQJknvQHaEd?rs=1&pid=ImgDetMain)](mailto:sachin.frontenddev@gmail.com)
+- [<img src="https://th.bing.com/th/id/OIP.VPVx8mYEC2KaNEJYQJknvQHaEd?rs=1&pid=ImgDetMain" width="55" height="50">](mailto:sachin.frontenddev@gmail.com)
 
 Feel free to reach out to me, send me a message, or reach out for any professional questions or collaboration opportunities.
 
@@ -38,7 +38,7 @@ Here are some of the technologies, languages, and tools I work with:
 Here are some of the technologies, languages, and tools I work with:
 
 - <img src="https://image.slidesharecdn.com/html-140215074152-phpapp01/95/html-1-638.jpg?cb=1392450195" alt="HTML5" width="55" height="50"> 
-- <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/regular/css3.svg" alt="CSS3" width="20" height="20"> [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="CSS3" width="20" height="20">
 - <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/regular/js.svg" alt="JavaScript" width="20" height="20"> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/tailwind-css.svg" alt="Tailwind CSS" width="20" height="20"> [Tailwind CSS](https://tailwindcss.com/)
 - <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/react.svg" alt="React" width="20" height="20"> [React](https://reactjs.org/)
