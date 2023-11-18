@@ -25,7 +25,7 @@ Here are some noteworthy projects I've been working on:
 
 I love connecting with fellow developers and learning from each other. You can reach me through the following channels:
 
-- LinkedIn: [https://www.linkedin.com/in/sachin-m-6a6a98a2/]
+- LinkedIn: [![LinkedIn](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)](https://www.linkedin.com/in/sachin-m-6a6a98a2/)
 - [![Discord](https://img.shields.io/badge/Discord-Sachin%234277-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/users/Sachin#4277)
 
 - Email: [sachin.frontenddev@gmail.com]
