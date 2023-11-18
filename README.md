@@ -25,11 +25,11 @@ Here are some noteworthy projects I've been working on:
 
 I love connecting with fellow developers and learning from each other. You can reach me through the following channels:
 
-- [<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="LinkedIn" width="35" height="30">](https://www.linkedin.com/in/sachin-m-6a6a98a2/)
+- [<img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="LinkedIn" width="55" height="50">](https://www.linkedin.com/in/sachin-m-6a6a98a2/)
 
 - [![Discord](https://img.shields.io/badge/Discord-Sachin%234277-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/users/Sachin#4277)
 
-- [<img src="https://th.bing.com/th/id/OIP.VPVx8mYEC2KaNEJYQJknvQHaEd?rs=1&pid=ImgDetMain" alt="Gmail Logo" width="35" height="30">](mailto:sachin.frontenddev@gmail.com)
+- [<img src="https://th.bing.com/th/id/OIP.VPVx8mYEC2KaNEJYQJknvQHaEd?rs=1&pid=ImgDetMain" alt="Gmail Logo" width="55" height="50">](mailto:sachin.frontenddev@gmail.com)
 
 
 Feel free to reach out to me, send me a message, or reach out for any professional questions or collaboration opportunities.
