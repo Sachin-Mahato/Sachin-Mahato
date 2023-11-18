@@ -37,7 +37,7 @@ Here are some of the technologies, languages, and tools I work with:
 
 Here are some of the technologies, languages, and tools I work with:
 
-- <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/regular/html5.svg" alt="HTML5" width="20" height="20"> [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- <img src="https://th.bing.com/th/id/OIP.XARcNUfxLdPxgBO2nM7u0gHaHa?rs=1&pid=ImgDetMain" alt="HTML5" width="20" height="20"> [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/regular/css3.svg" alt="CSS3" width="20" height="20"> [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/regular/js.svg" alt="JavaScript" width="20" height="20"> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/tailwind-css.svg" alt="Tailwind CSS" width="20" height="20"> [Tailwind CSS](https://tailwindcss.com/)
