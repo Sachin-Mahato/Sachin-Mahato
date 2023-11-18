@@ -29,7 +29,7 @@ I love connecting with fellow developers and learning from each other. You can r
 
 - [![Discord](https://img.shields.io/badge/Discord-Sachin%234277-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/users/Sachin#4277)
 
-- [![Gmail Logo](https://th.bing.com/th/id/OIP.VPVx8mYEC2KaNEJYQJknvQHaEd?rs=1&pid=ImgDetMain)](mailto:sachin.frontenddev@gmail.com)
+- [<img src="https://th.bing.com/th/id/OIP.VPVx8mYEC2KaNEJYQJknvQHaEd?rs=1&pid=ImgDetMain" alt="Gmail Logo" width="35" height="30">](mailto:sachin.frontenddev@gmail.com)
 
 
 Feel free to reach out to me, send me a message, or reach out for any professional questions or collaboration opportunities.
