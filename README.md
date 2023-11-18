@@ -37,13 +37,13 @@ Here are some of the technologies, languages, and tools I work with:
 
 Here are some of the technologies, languages, and tools I work with:
 
-- <img src="https://placehold.it/20x20" alt="HTML5" width="20" height="20"> [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- <img src="https://placehold.it/20x20" alt="CSS3" width="20" height="20"> [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- <img src="https://placehold.it/20x20" alt="JavaScript" width="20" height="20"> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- <img src="https://placehold.it/20x20" alt="Tailwind CSS" width="20" height="20"> [Tailwind CSS](https://tailwindcss.com/)
-- <img src="https://placehold.it/20x20" alt="React" width="20" height="20"> [React](https://reactjs.org/)
-- <img src="https://placehold.it/20x20" alt="Git" width="20" height="20"> [Git](https://git-scm.com/)
-- <img src="https://placehold.it/20x20" alt="GitHub" width="20" height="20"> [GitHub](https://github.com/)
+- <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/regular/html5.svg" alt="HTML5" width="20" height="20"> [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/regular/css3.svg" alt="CSS3" width="20" height="20"> [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/regular/js.svg" alt="JavaScript" width="20" height="20"> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/tailwind-css.svg" alt="Tailwind CSS" width="20" height="20"> [Tailwind CSS](https://tailwindcss.com/)
+- <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/react.svg" alt="React" width="20" height="20"> [React](https://reactjs.org/)
+- <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/git.svg" alt="Git" width="20" height="20"> [Git](https://git-scm.com/)
+- <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/github.svg" alt="GitHub" width="20" height="20"> [GitHub](https://github.com/)
 
 
 ## 🌐 Languages
