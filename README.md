@@ -38,7 +38,7 @@ Here are some of the technologies, languages, and tools I work with:
 Here are some of the technologies, languages, and tools I work with:
 
 - <img src="https://image.slidesharecdn.com/html-140215074152-phpapp01/95/html-1-638.jpg?cb=1392450195" alt="HTML5" width="55" height="50"> 
-- <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="CSS3" width="55" height="50">
+- <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="CSS3" width="50" height="40">
 - <img src="https://i.pinimg.com/originals/98/0b/a0/980ba07956ccfdf81b5060b1795cdcad.png" alt="JavaScript" width="55" height="50">
 - <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/tailwind-css.svg" alt="Tailwind CSS" width="20" height="20"> [Tailwind CSS](https://tailwindcss.com/)
 - <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/react.svg" alt="React" width="20" height="20"> [React](https://reactjs.org/)
