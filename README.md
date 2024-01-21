@@ -17,7 +17,7 @@ I'm currently working on strengthening my foundation in front-end development. I
 
 ## 🚀 Projects
 
-- [**Project 1**](https://github.com/IamSachin10/E-sketch.git): Short project description here...
+- [**Project 1**](https://github.com/SachinKumarMahato/E-sketch.git): Short project description here...
 
 ## 📫 How to Reach Me
 
