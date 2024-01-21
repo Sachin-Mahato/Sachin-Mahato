@@ -1,14 +1,12 @@
 # Namaste! I'm Sachin!  👋
-
-Welcome to my GitHub profile! I'm a passionate front-end developer based in India. I love building beautiful and interactive user interfaces, and I'm currently focused on honing my skills in frontend development.
+Welcome to my GitHub profile! I'm a front-end developer based in India. I use HTML, CSS, and JS to build websites and web apps, and I'm currently focused on honing my skills in frontend development.
 
 ## 🌟 About Me
 
 - 🎓 Currently taking a course on frontend development
 - 💼 Seeking new opportunities to apply my frontend development skills
 - 🌱 I’m constantly learning and exploring new technologies in the frontend ecosystem
-- 👯 I’m looking to collaborate on open-source projects and contribute to the developer community
-- 💬 Ask me about HTML, CSS, JavaScript, or anything related to frontend development
+- 👯 I’m looking to collaborate on projects and contribute to the developer community
 - 😄 Pronouns: He/Him
 
 ## 🔭 What I'm Working On
