@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a front-end developer based in India. I use HT
 - 💼 Seeking new opportunities to apply my frontend development skills
 - 🌱 I’m constantly learning and exploring new technologies in the frontend ecosystem
 - 👯 I’m looking to collaborate on projects and contribute to the developer community
-- 😄 Pronouns: He/Him
 
 ## 🔭 What I'm Working On
 
@@ -15,32 +14,17 @@ I'm currently working on strengthening my foundation in front-end development. I
 
 ## 🚀 Projects
 
-- [**Project 1**](https://github.com/SachinKumarMahato/E-sketch.git): Short project description here...
 
 ## 📫 How to Reach Me
 
-I love connecting with fellow developers and learning from each other. You can reach me through the following channels:
-
-
-
-Feel free to reach out to me, send me a message, or reach out for any professional questions or collaboration opportunities.
 
 
 ## 💻 Skills
-
-Here are some of the technologies, languages, and tools I work with:
 HTML
 CSS
 JS
 
 
 
-## 🌐 Languages
-
-I'm fluent in the following languages:
-
-- Khortha: Native proficiency
-- Hindi: Fluent
-- English: Proficient
 
 
