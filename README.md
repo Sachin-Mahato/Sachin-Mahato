@@ -2,7 +2,7 @@
 
 🎯 **Frontend Developer | Freelancer**  
 
-I'm a frontend developer with experience in building responsive web applications. I specialize in React, TypeScript, and modern CSS frameworks like Tailwind CSS, and I'm always eager to learn and create.
+I'm a frontend developer with experience in building responsive web applications. I specialize in React, TypeScript, and modern CSS frameworks like Tailwind CSS.
 
 ---
 
