@@ -39,5 +39,5 @@ Check out my personal portfolio: [Portfolio Website](https://sachin-mahato.githu
 ## 📫 Connect with Me  
 - **Email**: sachin.frontenddev@gmail.com  
 - **LinkedIn**: [Sachin Mahto](https://www.linkedin.com/in/sachinkumarmahato/)  
-- **GitHub**: [@sachin-mahato](https://github.com/sachin-mahato)  
+- **GitHub**: [Sachin-mahato](https://github.com/sachin-mahato)  
 
