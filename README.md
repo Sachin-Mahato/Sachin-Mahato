@@ -24,10 +24,8 @@ I'm a frontend developer with experience in building responsive web applications
 
 ## 🚀 Projects  
 Here are a few highlights of my work:  
-- 🛒 [Cart Craze](https://cart-craze.netlify.app/) - A portfolio e-commerce frontend built with React, Tailwind CSS, and React Router DOM.  
-- 📝 [To-Do App](https://sachin-get-it-done.netlify.app/) - A simple yet efficient task manager using React, Redux Toolkit, and localStorage.   
+- 🛒 [Cart Craze](https://github.com/Sachin-Mahato/cart-craze) - A full-stack e-commerce application built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **MongoDB**, and **NextAuth**. The project includes features like product filtering, cart and wishlist management, and secure authentication. Performance optimizations include **frontend caching** and **debouncing** to reduce unnecessary API calls and improve app speed.
 
-Find more on my [GitHub repositories](https://github.com/sachin-mahato).
 
 ---
 
