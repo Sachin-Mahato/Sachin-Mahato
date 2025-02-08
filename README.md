@@ -30,7 +30,7 @@ Here are a few highlights of my work:
 ---
 
 ## 💼 Portfolio  
-Check out my personal portfolio: [Portfolio Website](https://sachin-mahato.github.io/portfolio/)  
+Check out my personal portfolio: [Portfolio Website](https://sachinmahato.in/)  
 
 ---
 
