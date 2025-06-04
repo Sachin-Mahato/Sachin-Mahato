@@ -1,41 +1,61 @@
 # Hi there, I'm Sachin Kumar Mahto 👋  
-
 🎯 **Frontend Developer | Freelancer**  
 
-I'm a frontend developer with experience in building responsive web applications. I specialize in React, TypeScript, and modern CSS frameworks like Tailwind CSS.
+I’m a front-end developer with experience in JavaScript, React, HTML, CSS, and some TypeScript. I enjoy functional programming because of its elegant style. In my free time, I try to learn functional programming to get better at it.
 
 ---
 
-## 🛠️ Technologies & Tools  
-- **Languages**: JavaScript (ES6+), TypeScript  
-- **Frontend Frameworks**: React, Redux Toolkit  
-- **Styling**: Tailwind CSS  
-- **Version Control**: Git & GitHub  
-- **Build Tools**: NPM, Vite  
+## 🚀 [Hire Me on Upwork](https://www.upwork.com/freelancers/~01227f421932d23364)
+
+Looking for a skilled frontend developer? I’m available for freelance work on Upwork. Let’s collaborate on your next project!
 
 ---
 
-## 🌟 Current Focus  
-- 🔨 Working on freelance projects, delivering tailored frontend solutions.  
-- 🌱 Expanding my knowledge of advanced TypeScript patterns and modern React techniques.  
-- 💼 Actively seeking job opportunities in **frontend development** to collaborate and grow in a dynamic team environment.  
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript (ES6+), TypeScript  
+- **Frontend Frameworks:** React, Redux Toolkit, React Router 
+- **Styling:** Tailwind CSS  
+- **Version Control:** Git & GitHub  
+- **Build Tools:** NPM, Vite  
 
 ---
 
-## 🚀 Projects  
-Here are a few highlights of my work:  
-- 🛒 [Cart Craze](https://github.com/Sachin-Mahato/cart-craze) - A full-stack e-commerce application built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **MongoDB**, and **NextAuth**. The project includes features like product filtering, cart and wishlist management, and secure authentication. Performance optimizations include **frontend caching** and **debouncing** to reduce unnecessary API calls and improve app speed.
+## 🌟 Current Focus
 
-
----
-
-## 💼 Portfolio  
-Check out my personal portfolio: [Portfolio Website](https://sachinmahato.in/)  
+Enhancing my skills in Java, Data Structures and Algorithms (DSA), and problem-solving.
 
 ---
 
-## 📫 Connect with Me  
-- **Email**: sachin.frontenddev@gmail.com  
-- **LinkedIn**: [Sachin Mahto](https://www.linkedin.com/in/sachinkumarmahato/)  
-- **GitHub**: [Sachin-mahato](https://github.com/sachin-mahato)  
+## 🚀 Projects
 
+Here are a few highlights of my work:
+
+- **[Code Editor]**  
+  An HTML and CSS playground that eliminates the need to install an IDE or code editor, reducing redundancy.
+
+- **[Tarbo Tab]**  
+  A fuzzy finder that allows quick switching between tabs, enhancing efficiency and reducing the effort of pressing Ctrl + Tab.
+
+- **🛒 Cart Craze**  
+  A full-stack e-commerce application built with Next.js, React, TypeScript, Tailwind CSS, MongoDB, and NextAuth.  
+  Features include:
+  - Product filtering  
+  - Cart and wishlist management  
+  - Secure authentication  
+  - Performance optimizations like frontend caching and debouncing
+
+---
+
+## 💼 Portfolio
+
+Check out my personal portfolio: **[Portfolio Website]**
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** sachin.frontenddev@gmail.com  
+- **X:** [Sachin Mahato](https://x.com/SachinXMahato)  
+- **Upwork:** [Sachin Mahato](https://www.upwork.com/freelancers/~01227f421932d23364)
+- **LinkedIn:** [Sachin Mahto](https://www.linkedin.com/in/sachinkumarmahato/)  
